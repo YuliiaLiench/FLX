@@ -75,10 +75,10 @@ p {
 }
 
 a.text::after{
-    content: "new";
+    content: "New";
     color: #FF0000;
     vertical-align: super;
-    font-size: 8px;
+    font-size: 10px;
 }
 
 .heading a:hover{
